@@ -19,7 +19,12 @@
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 </div>
-
+<!-- 추가된 Velog 아이콘 -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://velog.io/@hann1233/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+</div>
 
 
 <!--
